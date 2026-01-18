@@ -1,26 +1,30 @@
-# Raylib C++ Starter Template
+# Retro Snake Game (C++ / Raylib)
 
-Raylib C++ Starter Template for Visual Studio Code on Windows.
+A classic Snake game implemented in C++ using the Raylib graphics library.
 
-This demo project contains a bouncing ball raylib example program.
+This project was built by extending a Raylib starter template into a complete playable game with sound, scoring, and collision handling.
 
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
+## Features
 
-# Video Tutorial
+- Classic grid-based Snake gameplay  
+- Food spawning system  
+- Score tracking  
+- Wall and self collision detection  
+- Sound effects
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+## Controls
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+Arrow Keys  
+- Up: Move Up  
+- Down: Move Down  
+- Left: Move Left  
+- Right: Move Right  
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
-</p>
+## How to Run
 
+Clone the repository and run the project using the provided Makefile or run script in Visual Studio Code.
+
+## License
+
+MIT License  
+Original Raylib template by Nick Koumaris
